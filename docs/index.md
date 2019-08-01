@@ -44,7 +44,7 @@ I propose to
 
 We will start with a small initial number of conditions which need local adaptation, focusing initially on annual or preventive visits.
 
-See the [README](https://narath.github.com/bestpractices/README.md) in the github repository for the current list of topics.
+See the [README](https://github.com/narath/bestpractices/blob/master/README.md) in the github repository for the current list of topics.
 
 # Challenges
 
