@@ -1,0 +1,46 @@
+Prevention and wellness for patients > 65
+
+Exercise: advised moderate to vigorous aerobic activity 3-5x per week, weight training/resistance to maintain strength, flexibility activities to mantain range of motion, balance training to improve stability and prevent falls
+Alcohol: CAGE
+Smoking: non smoker | pre-contemplative | contemplative | quitting | quit
+Medication review: reviewed medication list for accuracy, affordability, drug drug interactions. High risk medications reviewed including warfarin, digoxin, hypoglycemia, analgesic, antihypertensive, psychotropic, anticholinergic
+UI[presence q1y, severity q2y]
+Driving[vision, mobility, cognition]: no issues with driving | referred to Spaulding driving program
+Financial supports: ***
+Social supports: ***
+Elder mistreatment: ***
+Advance directive: ***
+
+Measured by MA:
+BP[annually]:
+On BP meds: orthostatics measures, BMP
+Weight[obesity, or weight loss > 10%]
+Hearing/Whisper test:
+Cognition/Minicog:
+Mood/PHQ2:
+Balance/Get up and go:
+
+Measured/ordered by MD:
+Vision[cognitive decline, functional impaired, falls]
+HLD[annually]
+DM[<70, HTN|HLD|BMI>=25]
+DEXA[F at 65]
+AAA[M 65-75 + any smoking or fam history AAA requiring repair]
+ASA[DM, CV risk>20%, CV risk>7.5 discussion]
+Ca/VitD[if osteoporosis, on bisphosphonate]
+
+Cancer:
+Life expectancy: ***
+Breast[Exp>10y, q2y]
+Colon[<80]: annual FOBT | colonoscopy q10y | flex sig q5y
+Lung[<80, smoker <15y, Exp<10]
+
+Immunizations:
+TDAP[q10y]
+Influenza[annual]
+PCV13[65]
+PPSV23[1 year after PCV13, revaccinate if PPSV23<65 + >5 years since vaccination]
+Shingrix
+
+Life expectancy calculators: https://www.ssa.gov/oact/population/longevity.html
+

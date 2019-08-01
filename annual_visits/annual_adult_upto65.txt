@@ -1,0 +1,48 @@
+Prevention for Adults < 65:
+(this is for screening, if already managing in conditions, then screening no longer appropriate, so just remove from section)
+
+CV disease:
+CV risk[>=20, q3y]: use ascvdrisk, last risk assessment *** in ***, next ***
+HTN[all,each visit]: see vitals
+HLD[1x 17-21, F>=45 (+RF 35), M>=35 (+RF 25) q5y]: next ***
+BMI[all,annual]: see vitals
+Physical activity[all, annual]: counselled on physical activity
+DM[HTN or HLD, 40-70 +BMI>=25, annual]: next ***
+
+Cancer:
+Breast[family history, F>40]: no significant family history|family history of ***, does not apply | discussed, defer | prefers annual | prefers biannual | prefers no screening, next review ***
+Cervical[F 21-29 q3y, F>=30 PAP+HPV q5y]: history of abnormal pap ***, next pap ***
+Colon[>=50 discuss, <50 +RF]: risk factors ****, prefers ***, next ****
+Lung[55-74 >=30 pack year within 15 years]: non smoker | less than 30 pack years | quit > 15 years ago | declined | screened on ***
+Prostate[>=50, <50 +RF(fam hx, aa)]: discussed, declines screening | annual, next ***
+Melanoma[annual derm if RF(fam history, fair skin, sun burns)]: ***
+
+Immunizations: see health maintenance section (record outside admin, or adjust modifiers)
+Influenza [all, annually]
+TDAP/Td[all, q10y]
+Shingrix[>=50]
+Varicella[if not immune]
+HPV[F <=26, M<=21, MSM <=26]
+PCV13 PPSV23[>65, RF(asthma/copd/smoker/dm/immune])
+Meningococcal[RF]
+HepB[RF, DM <60]
+
+Sexually transmitted/blood infections:
+Chlamydia[F<25 or +RF, M +RF]: annually / when requested
+Gonorrhea[F<25 or +RF, M +RF]: annually / when requested
+HepB[RF]
+HCV[1945-1965, +RF]
+HIV[one time]
+Syphilis[+RF]
+
+Psychosocial:
+Depression[all, q1y]: PHQ2
+Alcohol[all, q1y]: CAGE
+Smoking[all, q1y]
+Drugs[all, q1y]
+Abuse[all, q1y]
+
+Bone Health:
+DEXA [F post-menopause <65 +RF, M +RF]
+Vitamin D[only if osteoporosis, or Vit D deficiency]
+
